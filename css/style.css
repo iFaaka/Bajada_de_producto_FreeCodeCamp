@@ -258,5 +258,14 @@ main {
     
   }
   
-  
-  
+#aLinkedIn {
+    text-decoration: none;
+    color: black;
+}
+
+#aLinkedIn:hover {
+    color: white;
+    background-color: #168CEE;
+    text-decoration: underline;
+    font-size: large;
+}
